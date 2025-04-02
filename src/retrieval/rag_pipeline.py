@@ -1,4 +1,4 @@
-from ..utils.cleaning import remove_think_tags
+from utils.cleaning import remove_think_tags
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 

@@ -56,11 +56,6 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 ```
 
-Pull the required model:
-```bash
-ollama pull deepseek-r1:7b
-```
-
 ### 4. (Optional) Enable LangSmith for Model Monitoring
 
 To enable LangSmith tracing, create a .env file and add your API key and project name:
@@ -83,9 +78,9 @@ streamlit run app.py
 
 ### Run the FastAPI Server
 ```bash
-uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload
+uvicorn main:app --reload --host 0.0.0.0 --port 5000
 ```
-📌 Access Swagger API Documentation: http://localhost:8000/docs
+📌 Access Swagger API Documentation: http://localhost:5000/docs
 🖼️ Example:
 ![Swagger UI Screenshot](images/swagger.png)
 

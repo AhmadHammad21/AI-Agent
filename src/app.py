@@ -1,13 +1,8 @@
 import streamlit as st
-from src.loaders.pdf_loader import PDFLoader
-from src.processors.text_processor import TextProcessor
-from src.embeddings.vector_store import VectorStore
-from src.retrieval.rag_pipeline import RAGPipeline
-from src.utils.logger import get_logger
-from src.utils.exceptions import PDFLoadError
-from src.config.settings import (
-    EMBEDDING_MODEL_NAME, LLM_MODEL_NAME, VECTOR_STORE_PATH,
-)
+from embeddings.vector_store import VectorStore
+from retrieval.rag_pipeline import RAGPipeline
+from utils.logger import get_logger
+from config.settings import settings
 from langchain_core.prompts import (
     SystemMessagePromptTemplate,
     HumanMessagePromptTemplate,
@@ -78,12 +73,12 @@ with st.sidebar:
 def initialize_rag_pipeline():
 
     logger.info("Initializing RAG Pipelin...")
-    vector_store = VectorStore(EMBEDDING_MODEL_NAME)
+    vector_store = VectorStore(settings.EMBEDDING_MODEL_NAME)
 
-    vector_store.load_vector_store(VECTOR_STORE_PATH)
+    vector_store.load_vector_store(settings.VECTOR_STORE_PATH)
     logger.info("Loading vector store...")
 
-    rag = RAGPipeline(vector_store, model_name=LLM_MODEL_NAME)
+    rag = RAGPipeline(vector_store, model_name=settings.LLM_MODEL_NAME)
 
     logger.info("Pipeline is ready.")
     return rag

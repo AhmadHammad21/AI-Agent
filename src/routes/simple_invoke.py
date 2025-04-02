@@ -1,7 +1,7 @@
-import streamlit as st
 import requests
 
-FASTAPI_URL = "http://localhost:8000/query/"
+
+FASTAPI_URL = "http://localhost:5000/api/v1/query/"
 
 def get_rag_response(query):
     response = requests.post(FASTAPI_URL, json={"query": query})

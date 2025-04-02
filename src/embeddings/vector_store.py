@@ -1,6 +1,7 @@
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 
+
 class VectorStore:
     """Handles storing and retrieving document embeddings."""
 
