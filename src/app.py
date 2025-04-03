@@ -1,5 +1,5 @@
 import streamlit as st
-from embeddings.vector_store import VectorStore
+from vector_dbs.providers.vector_store import VectorStore
 from retrieval.rag_pipeline import RAGPipeline
 from utils.logger import get_logger
 from config.settings import settings
@@ -73,7 +73,7 @@ with st.sidebar:
 def initialize_rag_pipeline():
 
     logger.info("Initializing RAG Pipelin...")
-    vector_store = VectorStore(settings.EMBEDDING_MODEL_NAME)
+    vector_store = VectorStore()
 
     vector_store.load_vector_store(settings.VECTOR_STORE_PATH)
     logger.info("Loading vector store...")

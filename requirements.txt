@@ -15,4 +15,5 @@ transformers==4.50.3
 python-dotenv==1.1.0
 sse_starlette==2.2.1
 openai==1.70.0
+qdrant-client==1.13.3
 # pypdf==5.4.0

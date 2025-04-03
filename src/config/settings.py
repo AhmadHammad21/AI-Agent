@@ -21,8 +21,11 @@ class AppSettings:
     TOP_K: int = 10
     TOP_P: float = 0.95
 
-    # ================================ Vector Database Settings ================================
-    VECTOR_STORE_PATH: str = "../data/faiss_index" # ../ because we go into src directory 
+    # ================================ Vector DB Settings ================================
+    # VECTOR_DB_BACKEND="QDRANT"
+    # VECTOR_DB_PATH="qdrant_db"
+    # VECTOR_DB_DISTANCE_METHOD="cosine"
+    VECTOR_STORE_PATH: str = "./store/faiss_index" # ../ because we go into src directory 
     TOP_SIMILARITY_K: int = 3
     CHUNK_SIZE: int = 1000
     CHUNK_OVERLAP: int = 200
