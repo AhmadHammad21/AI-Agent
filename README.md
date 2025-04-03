@@ -1,13 +1,13 @@
-# 🚀 DeepSeek RAG Chatbot
+# 🚀 RAG Chatbot
 **100% Open Source | Local PC Installation**
 
-## 🔥 DeepSeek RAG: The Ultimate RAG Stack!
+## 🔥 RAG: The Ultimate RAG Stack!
 
-The **DeepSeek RAG Chatbot** is a powerful tool designed for fast, accurate, and explainable retrieval of information from PDFs. Leveraging **DeepSeek-7B**, **FAISS**, and **Chat History Integration**, this chatbot provides a seamless experience for document-based question answering and information retrieval.
+The * RAG Chatbot** is a powerful tool designed for fast, accurate, and explainable retrieval of information from PDFs. Leveraging *-7B**, **FAISS**, and **Chat History Integration**, this chatbot provides a seamless experience for document-based question answering and information retrieval.
 
 ## 🛠️ Tech Stack
 
-- **Core Model**: DeepSeek-7B
+- **Core Model**:-7B
 - **Embedding Model**: paraphrase-multilingual-MiniLM-L12-v2
 - **Framework**: Python
 - **Model Deployment**: Ollama
@@ -24,8 +24,8 @@ The **DeepSeek RAG Chatbot** is a powerful tool designed for fast, accurate, and
 ### 1. Clone the Repository & Install Dependencies
 Clone the repository
 ```bash
-git clone https://github.com/AhmadHammad21/DeepSeek-RAG-ChatBot
-cd DeepSeek-RAG-ChatBot
+git clone https://github.com/AhmadHammad21-RAG-ChatBot
+cd-RAG-ChatBot
 ```
 
 ### 2. Create and activate a virtual environment
@@ -46,15 +46,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 3. Install & Set Up Ollama
-Ollama is required to run DeepSeek-7B.
-
-Installation on # Linux/macOS:
-```bash
-
-curl -fsSL https://ollama.com/install.sh | sh
-
-```
 
 ### 4. (Optional) Enable LangSmith for Model Monitoring
 
@@ -100,18 +91,12 @@ docker run -p 8000:8000 rag-api
 
 - Run the Application: Start the Streamlit UI or FastAPI server.
 
-- Retrieval & Generation: The chatbot retrieves the most relevant document chunks and generates responses using `DeepSeek-7B`.
+- Retrieval & Generation: The chatbot retrieves the most relevant document chunks and generates responses using -7B`.
 
 ### Future Enhancements
-
-- 💻 Fine-Tune the DeepSeek Model.
 
 - 📂 Support additional document formats (DOCX, TXT, etc.).
 
 - 🔍 Implement Neural Reranking for improved search accuracy.
 
 - 🤖 Explore HyDE (Hypothetical Document Embeddings).
-
-- 🕸️ Integrate GraphRAG for enhanced knowledge structuring.
-
-- 📌 Contributions Welcome! 🚀 Feel free to fork, improve, and submit pull requests. Happy coding! 🎯
