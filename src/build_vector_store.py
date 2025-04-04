@@ -28,7 +28,9 @@ def build_and_save_vector_embeddings():
     logger.info("Splitting text into chunks...")
     text_processor = TextProcessor(settings.CHUNK_SIZE, settings.CHUNK_OVERLAP)
     documents = text_processor.split_documents(pdf_docs)
-
+    # logger.info("Documents")
+    # logger.info(documents)
+    # logger.info(f"Len of Documents: {len(documents)}")
     logger.info("Storing embeddings...")
     vector_store = VectorStore()
     vector_store.build_vector_store(documents, embedding_client.embed_text)

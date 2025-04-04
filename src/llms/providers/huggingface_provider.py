@@ -35,6 +35,8 @@ class HuggingFaceProvider(LLMInterface):
         self.embedding_tokenizer = None
         self.embedding_model = None
 
+        self.enums = HuggingFaceEnums
+
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     def set_generation_model(self, model_id: str) -> None:
@@ -114,8 +116,8 @@ class HuggingFaceProvider(LLMInterface):
         context = "\n\n".join([doc.page_content for doc in docs])
         prompt = self.apply_prompt_template(context, query)
         messages = [
-            self.construct_prompt(HuggingFaceEnums.SYSTEM.value, "You are a helpful AI assistant."),
-            self.construct_prompt(HuggingFaceEnums.USER.value, prompt),
+            self.construct_prompt(self.enums.SYSTEM.value, "You are a helpful AI assistant."),
+            self.construct_prompt(self.enums.USER.value, prompt),
         ]
         return self.generate_response(messages)
 
@@ -125,8 +127,8 @@ class HuggingFaceProvider(LLMInterface):
         context = "\n\n".join([doc.page_content for doc in docs])
         prompt = self.apply_prompt_template(context, query, chat_history)
         messages = [
-            self.construct_prompt(HuggingFaceEnums.SYSTEM.value, "You are a helpful AI assistant."),
-            self.construct_prompt(HuggingFaceEnums.USER.value, prompt),
+            self.construct_prompt(self.enums.SYSTEM.value, "You are a helpful AI assistant."),
+            self.construct_prompt(self.enums.USER.value, prompt),
         ]
         return self.generate_response(messages)
 

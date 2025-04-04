@@ -6,14 +6,14 @@ class AppSettings:
     PROCESSED_DIRECTORY: str = "data/processed"
 
     # ================================ LLM Settings ================================
-    # GENERATION_MODEL_ID: str = "gpt-4o-mini"
-    GENERATION_MODEL_ID: str = "ALLaM-AI/ALLaM-7B-Instruct-preview"
-    # EMBEDDING_MODEL_ID: str = "text-embedding-3-small"#sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-    EMBEDDING_MODEL_ID: str = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-    EMBEDDING_MODEL_SIZE: int = 384
+    GENERATION_MODEL_ID: str = "gpt-4o-mini"
+    # GENERATION_MODEL_ID: str = "ALLaM-AI/ALLaM-7B-Instruct-preview"
+    EMBEDDING_MODEL_ID: str = "text-embedding-3-small"
+    # EMBEDDING_MODEL_ID: str = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+    EMBEDDING_MODEL_SIZE: int = 768
 
-    GENERATION_BACKEND: str = "HUGGINGFACE"#"OPENAI"
-    EMBEDDING_BACKEND: str = "HUGGINGFACE"#OPENAI"
+    GENERATION_BACKEND: str = "OPENAI"
+    EMBEDDING_BACKEND: str = "OPENAI"
 
     INPUT_DAFAULT_MAX_CHARACTERS: int = 1024
     GENERATION_DAFAULT_MAX_TOKENS: int = 1024
@@ -31,7 +31,9 @@ class AppSettings:
     CHUNK_OVERLAP: int = 200
 
 
-
+    # ================================ Template Configs ================================
+    PRIMARY_LANG = "ar"
+    DEFAULT_LANG = "en"
     # FILE_ALLOWED_TYPES=["text/plain", "application/pdf"]
     # FILE_MAX_SIZE=10
     # FILE_DEFAULT_CHUNK_SIZE=512000 # 512KB

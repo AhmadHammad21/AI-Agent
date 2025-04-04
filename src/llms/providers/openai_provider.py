@@ -32,6 +32,8 @@ class OpenAIProvider(LLMInterface):
             api_key = self.api_key
         )
 
+        self.enums = OpenAIEnums
+
         self.logger = getLogger(__name__)
 
     def set_generation_model(self, model_id: str) -> None:
@@ -61,7 +63,7 @@ class OpenAIProvider(LLMInterface):
         top_p = top_p if top_p else self.default_generation_top_p
 
         chat_history.append(
-            self.construct_prompt(prompt=prompt, role=OpenAIEnums.USER.value)
+            self.construct_prompt(prompt=prompt, role=self.enums.USER.value)
         )
 
         response = self.client.chat.completions.create(
@@ -119,8 +121,8 @@ class OpenAIProvider(LLMInterface):
         context = "\n\n".join([doc.page_content for doc in docs])
         prompt = self.apply_prompt_template(context, query)
         messages = [
-            self.construct_prompt(OpenAIEnums.SYSTEM.value, "You are a helpful AI assistant."),
-            self.construct_prompt(OpenAIEnums.USER.value, prompt),
+            self.construct_prompt(self.enums.SYSTEM.value, "You are a helpful AI assistant."),
+            self.construct_prompt(self.enums.USER.value, prompt),
         ]
         return self.generate_response(messages)
     
@@ -131,8 +133,8 @@ class OpenAIProvider(LLMInterface):
         ## TODO NOTE: RECHECH THIS QREA ABOUT INPUT CHARACTERS AND PROMPT
         prompt = self.apply_prompt_template(context, query, chat_history)
         messages = [
-            self.construct_prompt(OpenAIEnums.SYSTEM.value, "You are a helpful AI assistant."),
-            self.construct_prompt(OpenAIEnums.USER.value, prompt),
+            self.construct_prompt(self.enums.SYSTEM.value, "You are a helpful AI assistant."),
+            self.construct_prompt(self.enums.USER.value, prompt),
         ]
         return self.generate_response(messages)
 
@@ -140,5 +142,5 @@ class OpenAIProvider(LLMInterface):
     def construct_prompt(self, role: str, prompt: str) -> dict:
         return {
             "role": role,
-            "content": self.process_text(prompt)
+            "content": prompt#self.process_text(prompt)
         }
