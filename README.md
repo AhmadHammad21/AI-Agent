@@ -29,14 +29,14 @@ pip install -r requirements.txt
 ```
 
 
-### 4. (Optional) Enable LangSmith for Model Monitoring
+### 3. Add OpenAI API Key 
 
-To enable LangSmith tracing, create a .env file and add your API key and project name:
+Create a .env file and add your API key and project name:
 ```bash
 OPENAI_API_KEY=""
 ```
 
-# 🚀 Running the Chatbot
+## 🚀 Running the Chatbot
 
 ### Run the Streamlit Chatbot UI
 ```bash
