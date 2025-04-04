@@ -43,3 +43,2856 @@
 2025-04-04 01:03:50 - INFO - [Document(metadata={'producer': 'Microsoft® Word for Microsoft 365', 'creator': 'Microsoft® Word for Microsoft 365', 'creationdate': '2025-03-28T23:36:05+03:00', 'author': 'Ahmad Hammad', 'moddate': '2025-03-28T23:36:05+03:00', 'source': '../data/docs/Pricing Calculations.pdf', 'total_pages': 1, 'page': 0, 'page_label': '1'}, page_content='Insurance Pricing Policy \n• Under 18 years old → 1,000 SR \n• Ages 19 - 30 → 1,200 SR \n• Ages 31 - 65 → 1,500 SR \n• Over 65 years old → 2,000 SR'), Document(metadata={'producer': 'Microsoft® Word for Microsoft 365', 'creator': 'Microsoft® Word for Microsoft 365', 'creationdate': '2025-04-04T01:34:39+03:00', 'author': 'Ahmad Hammad', 'moddate': '2025-04-04T01:34:39+03:00', 'source': '../data/docs/desaisiv_info.pdf', 'total_pages': 4, 'page': 0, 'page_label': '1'}, page_content="Who is Desaisiv? \nDesaisiv is an insurtech company specializing in health insurance management through AI-powered \nsolutions. Founded in 2022 by serial entrepreneurs Saed Khawaldeh and Mohamad Nabhan, the \ncompany operates primarily in the Middle East and North Africa (MENA) region, with a presence in Saudi \nArabia, Jordan, and the United Arab Emirates.  \n \nIn July 2023, Desaisiv secured $2 million in a pre-seed funding round led by 500 Global, Terra VC, Oqal \nangel investors, and other notable investors from the MENA region, the UK, and the USA. This funding \naims to fuel Desaisiv's growth in the MENA region, enabling further development of AI products, \nexpansion of operations and teams, and entry into new markets.  \n \nDesaisiv's mission is to revolutionize the insurance sector by leveraging artificial intelligence to create \nsmarter, more efficient, and customer-centric insurance solutions. By collaborating with top machine"), Document(metadata={'producer': 'Microsoft® Word for Microsoft 365', 'creator': 'Microsoft® Word for Microsoft 365', 'creationdate': '2025-04-04T01:34:39+03:00', 'author': 'Ahmad Hammad', 'moddate': '2025-04-04T01:34:39+03:00', 'source': '../data/docs/desaisiv_info.pdf', 'total_pages': 4, 'page': 0, 'page_label': '1'}, page_content="smarter, more efficient, and customer-centric insurance solutions. By collaborating with top machine \nlearning scientists from the University of Oxford and accessing an extensive database of patient records, \nDesaisiv has achieved an impressive average prediction accuracy of over 95%.  \n  \nDesaisiv Ledger (bucket) \nDesaisiv has 1 ledge total of insurance claims of over 1 billion SAR. \nمحفظة تأمينية تتجاوز المليار ريال سعودي لشركة تكنولوجيا التأمين ديسايسف \n \n \nGeneral Features \nDesaisiv's platform offers a range of features designed to streamline health insurance processes for \ninsurers and third-party administrators (TPAs): \n• Effortless Data Management: Simplifies the input and maintenance of employee lists, claim \nexperiences (CE), and interaction data, reducing the need for manual data entry.  \nAdvanced OCR Technology: Utilizes Optical Character Recognition to extract data from PDFs, \nensuring accuracy and efficiency in data processing."), Document(metadata={'producer': 'Microsoft® Word for Microsoft 365', 'creator': 'Microsoft® Word for Microsoft 365', 'creationdate': '2025-04-04T01:34:39+03:00', 'author': 'Ahmad Hammad', 'moddate': '2025-04-04T01:34:39+03:00', 'source': '../data/docs/desaisiv_info.pdf', 'total_pages': 4, 'page': 0, 'page_label': '1'}, page_content='Advanced OCR Technology: Utilizes Optical Character Recognition to extract data from PDFs, \nensuring accuracy and efficiency in data processing.  \n• AI-Powered Analytics: Provides comprehensive insights into health insurance consumption, \nincluding employee utilization patterns, preferred healthcare providers, and types of medical \nvisits.  \n• Future Cost Predictions: Offers predictive analysis to anticipate future health insurance costs, \naiding in effective budgeting and planning.  \n• Customization and Optimization: Allows for tailoring of health insurance benefits to align with \norganizational needs and budgets, either manually or through an optimization algorithm.'), Document(metadata={'producer': 'Microsoft® Word for Microsoft 365', 'creator': 'Microsoft® Word for Microsoft 365', 'creationdate': '2025-04-04T01:34:39+03:00', 'author': 'Ahmad Hammad', 'moddate': '2025-04-04T01:34:39+03:00', 'source': '../data/docs/desaisiv_info.pdf', 'total_pages': 4, 'page': 1, 'page_label': '2'}, page_content='Key Features of Desaisiv \n• Claims Experience Analytics \no Gain deep insights into historical claims data to estimate future pricing with high \naccuracy. \no Utilize various factors, such as claim frequency, severity, and trends, to optimize pricing \nstrategies. \no Ensure competitive and data-driven pricing models that align with market conditions. \n• Quotation Comparison \no Easily upload multiple quotations from different insurance companies for side-by-side \nanalysis. \no Compare key factors such as coverage, pricing, deductibles, and policy terms. \no Simplify decision-making by identifying the most cost-effective and comprehensive \ninsurance option. \n• Request New Quotation \no Upload claims experience reports and active policies to receive tailored quotation offers \nfrom insurers. \no Enable insurers to revise offers, negotiate terms, and finalize agreements with clients \nseamlessly. \no Streamline the quotation process, reducing manual effort and improving transparency'), Document(metadata={'producer': 'Microsoft® Word for Microsoft 365', 'creator': 'Microsoft® Word for Microsoft 365', 'creationdate': '2025-04-04T01:34:39+03:00', 'author': 'Ahmad Hammad', 'moddate': '2025-04-04T01:34:39+03:00', 'source': '../data/docs/desaisiv_info.pdf', 'total_pages': 4, 'page': 1, 'page_label': '2'}, page_content='o Enable insurers to revise offers, negotiate terms, and finalize agreements with clients \nseamlessly. \no Streamline the quotation process, reducing manual effort and improving transparency \nbetween all parties. \n• Provider Comparison \no Compare provider networks across different insurance classes and tiers to assess \ncoverage quality. \no Upload network lists and evaluate them against competitors to identify the best options. \no Ensure policyholders receive access to top-tier healthcare providers while optimizing \ncosts. \n• Underwriter Tool \no Automate the conversion of PDF documents into structured Excel files for underwriting \npurposes.'), Document(metadata={'producer': 'Microsoft® Word for Microsoft 365', 'creator': 'Microsoft® Word for Microsoft 365', 'creationdate': '2025-04-04T01:34:39+03:00', 'author': 'Ahmad Hammad', 'moddate': '2025-04-04T01:34:39+03:00', 'source': '../data/docs/desaisiv_info.pdf', 'total_pages': 4, 'page': 2, 'page_label': '3'}, page_content='o Reduce manual data entry and errors, allowing underwriters to focus on risk assessment. \no Improve efficiency in policy pricing, claim evaluation, and overall decision-making for \ninsurers. \n \nRequired Files for Feature Usage \nTo utilize the platform’s features effectively, the following files may be required: \n• Claims Experience (CE)– Essential for historical claims analysis and pricing estimation. \n• Active List – Contains details of active policies necessary for generating quotations. \n• Raw Data (Optional) – Additional data that can enhance analysis and accuracy. \n• Providers List – Used for comparing provider networks across different insurance plans. \n• National address – Used for requesting new quotation. \n• Commercial License - Used for requesting new quotation. \nFor specific file requirements per feature, please contact the Product Manager, Mohammad Rababah. \n \nDesaisiv Partnership \nHealth insurance companies that Desaisiv has partnership with \n- Al Rajhi Takaful'), Document(metadata={'producer': 'Microsoft® Word for Microsoft 365', 'creator': 'Microsoft® Word for Microsoft 365', 'creationdate': '2025-04-04T01:34:39+03:00', 'author': 'Ahmad Hammad', 'moddate': '2025-04-04T01:34:39+03:00', 'source': '../data/docs/desaisiv_info.pdf', 'total_pages': 4, 'page': 2, 'page_label': '3'}, page_content='Desaisiv Partnership \nHealth insurance companies that Desaisiv has partnership with \n- Al Rajhi Takaful  \n- Al Saqr Insurance \n- United Cooperative Assurance \n- Al Etihad \n- Arabian Shield  \n \n \nشركات التأمين التي يوجد بينها شراكة  \n- تكافل الراجحي  \n- الصقر للتأمين \n- المتحدة للتأمين التعاوني \n- الاتحاد للتأمين التعاوني \n- الدرع العربي'), Document(metadata={'producer': 'Microsoft® Word for Microsoft 365', 'creator': 'Microsoft® Word for Microsoft 365', 'creationdate': '2025-04-04T01:34:39+03:00', 'author': 'Ahmad Hammad', 'moddate': '2025-04-04T01:34:39+03:00', 'source': '../data/docs/desaisiv_info.pdf', 'total_pages': 4, 'page': 3, 'page_label': '4'}, page_content='Contact, Support or Inquires \nIf you have any questions support, please contact \nMobile number: 00966570745585 \nEmail Address: info@desaisiv.com')]
 2025-04-04 01:03:50 - INFO - Storing embeddings...
 2025-04-04 01:03:53 - INFO - Saved New embeddings... to ./store/faiss_index
+2025-04-04 02:05:03 - INFO - Processing query: hello?
+2025-04-04 02:05:03 - INFO - Processing query: hello?
+2025-04-04 02:05:03 - INFO - Processing query: hello?
+2025-04-04 02:06:05 - INFO - Processing query: hello?
+2025-04-04 02:06:05 - INFO - Processing query: hello?
+2025-04-04 02:06:05 - INFO - Processing query: hello?
+2025-04-04 02:06:05 - INFO - Processing query: hello?
+2025-04-04 02:06:05 - INFO - Processing query: hello?
+2025-04-04 02:06:17 - INFO - Processing query: im ahmad hammad
+2025-04-04 02:06:17 - INFO - Processing query: im ahmad hammad
+2025-04-04 02:06:17 - INFO - Processing query: im ahmad hammad
+2025-04-04 02:06:17 - INFO - Processing query: im ahmad hammad
+2025-04-04 02:06:17 - INFO - Processing query: im ahmad hammad
+2025-04-04 02:06:17 - INFO - Processing query: im ahmad hammad
+2025-04-04 02:06:17 - INFO - Processing query: im ahmad hammad
+2025-04-04 02:07:54 - INFO - Processing query: hello
+2025-04-04 02:07:54 - INFO - Processing query: hello
+2025-04-04 02:07:54 - INFO - Processing query: hello
+2025-04-04 02:07:54 - INFO - Processing query: hello
+2025-04-04 02:07:54 - INFO - Processing query: hello
+2025-04-04 02:07:54 - INFO - Processing query: hello
+2025-04-04 02:07:54 - INFO - Processing query: hello
+2025-04-04 02:07:54 - INFO - Processing query: hello
+2025-04-04 02:07:54 - INFO - Processing query: hello
+2025-04-04 02:07:54 - INFO - Processing query: hello
+2025-04-04 02:19:05 - INFO - Processing query: Hello?
+2025-04-04 02:19:05 - INFO - Processing query: Hello?
+2025-04-04 02:19:05 - INFO - Processing query: Hello?
+2025-04-04 02:19:05 - INFO - Processing query: Hello?
+2025-04-04 02:19:05 - INFO - Processing query: Hello?
+2025-04-04 02:19:05 - INFO - Processing query: Hello?
+2025-04-04 02:19:05 - INFO - Processing query: Hello?
+2025-04-04 02:19:05 - INFO - Processing query: Hello?
+2025-04-04 02:19:05 - INFO - Processing query: Hello?
+2025-04-04 02:19:05 - INFO - Processing query: Hello?
+2025-04-04 02:19:05 - INFO - Processing query: Hello?
+2025-04-04 02:19:05 - INFO - Processing query: Hello?
+2025-04-04 02:19:05 - INFO - Processing query: Hello?
+2025-04-04 02:19:05 - INFO - Processing query: Hello?
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:21:15 - INFO - Processing query: hello s
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:21 - INFO - Processing query: hello
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:23:51 - INFO - Processing query: hello!
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:25:25 - INFO - Processing query: hello
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:03 - INFO - Processing query: # User input
+query = st.chat_input("Enter your message...")
+
+if query:
+    # Display user message
+    # st.session_state.message_log.append({"role": "user", "content": query})
+
+    with st.chat_message("user"):
+        st.markdown(query)
+
+    logger.info(f"Processing query: {query}")
+    with st.spinner("🧠 Processing..."):
+        # prompt_chain = build_prompt_chain()
+        
+        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
+
+    # Typing effect for AI response
+    with st.chat_message("ai"):
+        ai_message_placeholder = st.empty()
+        ai_response = ""
+
+        for char in response:
+            ai_response += char
+            ai_message_placeholder.markdown(ai_response + "▌")  # Cursor effect
+            time.sleep(0.02)  # Adjust speed of typing effect
+
+        ai_message_placeholder.markdown(ai_response)  # Remove cursor at the end
+
+    # Add AI response to log
+    st.session_state.message_log.append({"role": "ai", "content": response})
+
+    # Rerun to update chat display
+    st.rerun()
+
+
+this odens twork and keeps removing queries from user
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:26:55 - INFO - Processing query: Helelo
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:31:57 - INFO - Processing query: Hello
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:08 - INFO - Processing query: how can desaisiv help me?
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:32:23 - INFO - Processing query: اسمي احمد حماد
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:01 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:19 - INFO - Processing query: hello!
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:37:31 - INFO - Processing query: how can desaisv help my insurance plan?
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:38:16 - INFO - Processing query: السلام عليكم،  عندي شخصين بين عمر  شخصين بين عمرين 20-30 كم سعر البوليصة؟
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:39:55 - INFO - Processing query: hello!
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:41:19 - INFO - Processing query: Hello
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:32 - INFO - Processing query: Hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:50 - INFO - Processing query: hello!
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:42:59 - INFO - Processing query: كيف حالك؟
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:43:35 - INFO - Processing query: بدي تسعيرة لخمس أشخاص فوق 24 ساعة
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:00 - INFO - Processing query: hello!
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:08 - INFO - Processing query: sadasd
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:45:14 - INFO - Processing query: يبسيبسيسشيبيسبشسي
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:47:29 - INFO - Processing query: شلونك؟
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:50 - INFO - Processing query: hello
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:51:57 - INFO - Processing query: my name is ahmad hammad, what's your name/>
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:52:05 - INFO - Processing query: what's your name?
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:55:35 - INFO - Processing query: هلا
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 02:59:57 - INFO - Processing query: كيف حالك؟ انت سكان وين
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:06:24 - INFO - Processing query: كيف حالك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
+2025-04-04 03:12:03 - INFO - Processing query: شو اسمك؟
