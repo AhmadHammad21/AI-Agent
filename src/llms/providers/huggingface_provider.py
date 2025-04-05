@@ -89,51 +89,9 @@ class HuggingFaceProvider(LLMInterface):
 
         return embeddings.cpu().numpy()
     
-    def generate_response(self, messages: List[Dict[str, str]]) -> str:
-        """Generate a response from the Hugging Face model based on messages."""
-        if not self.model:
-            raise ValueError("Generation model not set. Call set_generation_model first.")
-
-        inputs = self.tokenizer.apply_chat_template(messages, tokenize=False)
-        inputs = self.tokenizer(inputs, return_tensors='pt', return_token_type_ids=False)
-        inputs = {k: v.to(self.device) for k, v in inputs.items()}
-
-        with torch.no_grad():
-            outputs = self.model.generate(
-                **inputs,
-                max_new_tokens=self.max_output_tokens,
-                do_sample=True,
-                top_k=self.top_k,
-                top_p=self.top_p,
-                temperature=self.temperature,
-            )
-
-        return self.tokenizer.decode(outputs[0], skip_special_tokens=True)
-
-    def retrieve_and_generate(self, query: str) -> str:
-        """Retrieve relevant chunks and generate a response."""
-        docs = self.vector_store.query(query)
-        context = "\n\n".join([doc.page_content for doc in docs])
-        prompt = self.apply_prompt_template(context, query)
-        messages = [
-            self.construct_prompt(self.enums.SYSTEM.value, "You are a helpful AI assistant."),
-            self.construct_prompt(self.enums.USER.value, prompt),
-        ]
-        return self.generate_response(messages)
-
-    def retrieve_and_generate_history(self, query: str, chat_history: str) -> str:
-        """Retrieve relevant chunks and generate a response while considering chat history."""
-        docs = self.vector_store.query(query)
-        context = "\n\n".join([doc.page_content for doc in docs])
-        prompt = self.apply_prompt_template(context, query, chat_history)
-        messages = [
-            self.construct_prompt(self.enums.SYSTEM.value, "You are a helpful AI assistant."),
-            self.construct_prompt(self.enums.USER.value, prompt),
-        ]
-        return self.generate_response(messages)
-
-    def construct_prompt(self, role: str, prompt: str) -> dict:
+    def construct_prompt(self, role: str, prompt: str, full_prompt: str="") -> dict:
         return {
             "role": role,
-            "content": self.process_text(prompt)
+            "content": self.process_text(prompt),
+            "full_prompt": full_prompt
         }

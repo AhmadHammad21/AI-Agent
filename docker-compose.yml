@@ -1,0 +1,55 @@
+services:
+  mongodb:
+    image: mongo:noble
+    
+    container_name: mongodb
+    
+    ports:
+      - "27017:27017"
+    
+    volumes:
+      - mongodata:/data/db
+
+    # environment:
+    #   - MONGO_INITDB_ROOT_USERNAME=${MONGO_INITDB_ROOT_USERNAME}
+    #   - MONGO_INITDB_ROOT_PASSWORD=${MONGO_INITDB_ROOT_PASSWORD}
+    
+    networks:
+      - backend
+    
+    restart: always
+  
+  # fastapi:
+  #   build:
+  #     context: .
+  #     dockerfile: fastapi.Dockerfile
+  #   container_name: fastapi
+  #   ports:
+  #     - "8000:8000"
+  #   depends_on:
+  #     - mongodb
+  #   # environment:
+  #   #   MONGODB_URL: mongodb://mongodb:27017/
+  #   #   MONGODB_DATABASE: chatbot_db
+  #   networks:
+  #     - backend
+
+  # streamlit:
+  #   build:
+  #     context: .
+  #     dockerfile: streamlit.Dockerfile
+  #   container_name: streamlit
+  #   ports:
+  #     - "8501:8501"
+  #   depends_on:
+  #     - fastapi
+  #   # environment:
+  #   #   API_URL: http://fastapi:8000/api/v1/chatbot/answer
+  #   networks:
+  #     - backend
+
+networks:
+  backend:
+
+volumes:
+  mongodata:

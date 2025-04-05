@@ -1,12 +1,14 @@
 class RAGProvider:
-    def __init__(self, vectordb_client, generation_client, 
+    def __init__(self, vectordb_client, chat_log_manager, generation_client, 
                  embedding_client, template_parser):
         self.vectordb_client = vectordb_client
+        self.chat_log_manager = chat_log_manager
         self.generation_client = generation_client
         self.embedding_client = embedding_client
         self.template_parser = template_parser
 
-    def answer_rag_question(self, query: str, limit: int = 5):
+    async def answer_rag_question(self, user_id: str, session_id: str,
+                                  query: str, limit: int = 5):
         
         answer, full_prompt, chat_history = None, None, None
         
@@ -32,20 +34,51 @@ class RAGProvider:
         footer_prompt = self.template_parser.get("rag", "footer_prompt",
                                                  {"query": query})
 
-        # step3: Construct Generation Client Prompts
-        chat_history = [
-            self.generation_client.construct_prompt(
-                prompt=system_prompt,
-                role=self.generation_client.enums.SYSTEM.value,
+        mongo_chat_history = await self.chat_log_manager.get_chat_history(
+            user_id=user_id, session_id=session_id
+        )
+
+        new_messages = []
+
+        # Add the system prompt if it's a first-time user
+        if mongo_chat_history is None:
+            new_messages.append(
+                self.generation_client.construct_prompt(
+                    prompt=system_prompt,
+                    role=self.generation_client.enums.SYSTEM.value,
+                )
             )
-        ]
+
+        # Add the user query
+        new_messages.append(
+            self.generation_client.construct_prompt(
+                prompt=query,
+                role=self.generation_client.enums.USER.value,
+            )
+        )
 
         full_prompt = "\n\n".join([documents_prompts,  footer_prompt])
 
         # step4: Retrieve the Answer
         answer = self.generation_client.generate_text(
             prompt=full_prompt,
-            chat_history=chat_history
+            chat_history=mongo_chat_history if mongo_chat_history else new_messages
+        )
+
+        # Append the assistant's response
+        new_messages.append(
+            self.generation_client.construct_prompt(
+                prompt=answer,
+                role=self.generation_client.enums.ASSISTANT.value,
+                full_prompt=full_prompt
+            )
+        )
+
+        # Just append new messages to DB
+        await self.chat_log_manager.insert_or_update_chat_log(
+            user_id=user_id,
+            session_id=session_id,
+            messages=new_messages  # only the delta, not the full history
         )
 
         return answer, full_prompt, chat_history
