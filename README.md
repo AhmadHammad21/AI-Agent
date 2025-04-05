@@ -1,4 +1,4 @@
-# 🚀 RAG Chatbot
+# 🤖 Chatbot
 
 ## 🛠️ Installation & Setup
 
@@ -34,6 +34,9 @@ pip install -r requirements.txt
 Create a .env file and add your API key and project name:
 ```bash
 OPENAI_API_KEY=""
+MONGODB_URL="mongodb://34.173.119.32/"
+MONGODB_DATABASE="ai-agent"
+MONGODB_COLLECTION="chatbot"
 ```
 
 
