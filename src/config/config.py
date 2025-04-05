@@ -9,6 +9,11 @@ class Config(BaseSettings):
     LANGSMITH_PROJECT: Optional[str] = None
     OPENAI_API_KEY: str
 
+    # Mongo DB
+    MONGODB_URL: str
+    MONGODB_DATABASE: str
+    MONGODB_COLLECTION: str
+
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 
 
