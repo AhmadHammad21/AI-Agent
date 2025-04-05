@@ -43,6 +43,7 @@ OPENAI_API_KEY=""
 streamlit run app.py
 ```
 
+sudo docker compose up
 
 ### Run the FastAPI Server
 ```bash
