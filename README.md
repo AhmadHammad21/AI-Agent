@@ -36,27 +36,24 @@ Create a .env file and add your API key and project name:
 OPENAI_API_KEY=""
 ```
 
+
 ## 🚀 Running the Chatbot
 
-### Run the Streamlit Chatbot UI
+### Run the Docker Compose
 ```bash
-streamlit run app.py
+sudo docker-compose up --build
 ```
-
-sudo docker compose up
 
 ### Run the FastAPI Server
 ```bash
 uvicorn main:app --reload --host 0.0.0.0 --port 5000
 ```
 
-
-### Run via Docker
+### Run the Streamlit Chatbot UI
 ```bash
-# Build the Docker image
-docker build -t rag-api .
-
-# Run the container
-docker run -p 8000:8000 rag-api
+streamlit run app.py
 ```
+
+
+
 

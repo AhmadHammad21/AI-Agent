@@ -1,23 +1,13 @@
 import streamlit as st
-from vector_dbs.providers.vector_store import VectorStore
-from llms.rag_provider import RAGProvider
-from llms.llm_provider_factory import LLMProviderFactory
-from llms.templates.template_parser import TemplateParser
 from utils.logger import get_logger
-from config.settings import settings
-from config.config import config
-from langchain_core.prompts import (
-    SystemMessagePromptTemplate,
-    HumanMessagePromptTemplate,
-    AIMessagePromptTemplate,
-    ChatPromptTemplate
-)
-from dotenv import load_dotenv
+import requests
+import random
 import time
-load_dotenv()
 
 # Set up logger
 logger = get_logger(__name__)
+
+API_URL = "http://localhost:5000/api/v1/chatbot/answer"  # Replace with your actual URL
 
 # Custom CSS styling
 st.markdown("""
@@ -67,38 +57,6 @@ with st.sidebar:
     - ❓ Question Answering
     """)
     
-@st.cache_resource(show_spinner=False)
-def initialize_rag_pipeline():
-
-    template_parser = TemplateParser(language=settings.PRIMARY_LANG, default_language=settings.DEFAULT_LANG)
-    llm_provider_factory = LLMProviderFactory(config, settings)
-
-    generation_client = llm_provider_factory.create(provider=settings.GENERATION_BACKEND)
-    generation_client.set_generation_model(model_id=settings.GENERATION_MODEL_ID)
-
-    embedding_client = llm_provider_factory.create(provider=settings.EMBEDDING_BACKEND)
-    embedding_client.set_embedding_model(model_id=settings.EMBEDDING_MODEL_ID,
-                                                embedding_size=settings.EMBEDDING_MODEL_SIZE)
-
-    vector_store = VectorStore()
-    vector_store.load_vector_store(settings.VECTOR_STORE_PATH, embedding_client.embed_text)
-
-    rag_object = RAGProvider(vectordb_client=vector_store, generation_client=generation_client,
-                             embedding_client=embedding_client, template_parser=template_parser)
-    
-    return rag_object
-
-
-# Load the pipeline
-if 'rag_pipeline' not in st.session_state:
-    st.session_state.rag_pipeline = initialize_rag_pipeline()
-
-
-# # System prompt configuration
-system_prompt = SystemMessagePromptTemplate.from_template(
-    "You are an expert AI customer support assistant. Provide concise, correct answers"
-    "Always respond in English or in Arabic Saudi Dialect."
-)
 
 # Session state management
 if "messages" not in st.session_state:
@@ -111,14 +69,6 @@ for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
 
-def build_prompt_chain():
-    prompt_sequence = [system_prompt]
-    for msg in st.session_state.message_log:
-        if msg["role"] == "user":
-            prompt_sequence.append(HumanMessagePromptTemplate.from_template(msg["content"]))
-        elif msg["role"] == "ai":
-            prompt_sequence.append(AIMessagePromptTemplate.from_template(msg["content"]))
-    return ChatPromptTemplate.from_messages(prompt_sequence)
 
 def response_generator(response: str):
 
@@ -126,30 +76,45 @@ def response_generator(response: str):
         yield word + " "
         time.sleep(0.05)
 
-# User input
+def generate_user_id(length=6):
+    return str(random.randint(10**(length-1), 10**length - 1))
+
+# # User input
 query = st.chat_input("Enter your message...")
+
+
+user_id = generate_user_id()  # You can dynamically assign this too
+session_id = user_id  # Ideally, generate or persist one per session
 
 if query:
     # Display user message
     with st.chat_message("user"):
         st.markdown(query)
 
+    # Send query to your FastAPI endpoint
+    try:
+        with st.spinner("🧠 Processing..."):
+            response = requests.post(API_URL, json={
+                "user_id": user_id,
+                "session_id": session_id,
+                "query": query
+            })
+
+            if response.status_code == 200:
+                data = response.json()
+                assistant_reply = data.get("answer", "❌ لم يتم العثور على رد.")
+            else:
+                assistant_reply = "⚠️ حدث خطأ في الخادم."
+    except Exception as e:
+        assistant_reply = f"❌ خطأ في الاتصال: {e}"
+
+    # Show assistant response
+    with st.chat_message("assistant"):
+        st.write_stream(response_generator(response=assistant_reply))
+
+    # Save display-only chat history
     st.session_state.messages.append({"role": "user", "content": query})
+    st.session_state.messages.append({"role": "assistant", "content": assistant_reply})
 
-    logger.info(f"Processing query: {query}")
-    with st.spinner("🧠 Processing..."):
-        # prompt_chain = build_prompt_chain()
-        
-        response, full_prompt, chat_history = st.session_state.rag_pipeline.answer_rag_question(query)
-        ### TODO: CHANGE THIS TO USE THE API DIRECTLY INSTEAD OF THE MANUAL INVOCATION
-
-        with st.chat_message("assistant"):
-            response = st.write_stream(response_generator(response=response))
-            # Add assistant response to chat history
-        st.session_state.messages.append({"role": "assistant", "content": response})
-
-    print("History")
-    print(st.session_state.messages)
-    print(f"len of stored chat history: {len(st.session_state.messages)}")
-    # Rerun to update chat display
+    # Rerun to refresh UI
     st.rerun()

@@ -68,7 +68,7 @@ class OpenAIProvider(LLMInterface):
 
         response = self.client.chat.completions.create(
             model = self.generation_model_id,
-            messages = chat_history,
+            messages = self.clean_messages(chat_history),
             max_tokens = max_output_tokens,
             temperature = temperature,
             top_p=top_p
@@ -101,46 +101,19 @@ class OpenAIProvider(LLMInterface):
             return None
 
         return response.data[0].embedding
-    
-    def generate_response(self, messages: List[Dict[str, str]]) -> str:
-        """Generate a response from OpenAI's API based on messages."""
-        response = self.client.chat.completions.create(
-            model=self.generation_model_id,
-            messages=messages,
-            max_tokens=self.default_generation_max_output_tokens,
-            temperature=self.default_generation_temperature,
-            top_p=self.default_generation_top_p
-        )
 
-        return response.choices[0].message.content
-    
-    def retrieve_and_generate(self, query: str) -> str:
-        """Retrieve relevant chunks and generate a response."""
-        ## NOTE: double check
-        docs = self.vector_store.query(query)
-        context = "\n\n".join([doc.page_content for doc in docs])
-        prompt = self.apply_prompt_template(context, query)
-        messages = [
-            self.construct_prompt(self.enums.SYSTEM.value, "You are a helpful AI assistant."),
-            self.construct_prompt(self.enums.USER.value, prompt),
-        ]
-        return self.generate_response(messages)
-    
-    def retrieve_and_generate_history(self, query: str, chat_history: str) -> str:
-        """Retrieve relevant chunks and generate a response while considering chat history."""
-        docs = self.vector_store.query(query)
-        context = "\n\n".join([doc.page_content for doc in docs])
-        ## TODO NOTE: RECHECH THIS QREA ABOUT INPUT CHARACTERS AND PROMPT
-        prompt = self.apply_prompt_template(context, query, chat_history)
-        messages = [
-            self.construct_prompt(self.enums.SYSTEM.value, "You are a helpful AI assistant."),
-            self.construct_prompt(self.enums.USER.value, prompt),
-        ]
-        return self.generate_response(messages)
-
-
-    def construct_prompt(self, role: str, prompt: str) -> dict:
+    def construct_prompt(self, role: str, prompt: str, full_prompt: str="") -> dict:
         return {
             "role": role,
-            "content": prompt#self.process_text(prompt)
+            "content": prompt,#self.process_text(prompt),
+            "full_prompt": full_prompt
         }
+
+    def clean_messages(self, messages):
+        clean_chat_history = [
+            {"role": msg["role"], "content": msg["content"]}
+            for msg in messages
+        ]
+        self.logger.info("Clean Chat History")
+        self.logger.info(messages)
+        return clean_chat_history

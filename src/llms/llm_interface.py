@@ -55,43 +55,6 @@ class LLMInterface(ABC):
         """
         pass
 
-    @abstractmethod
-    def generate_response(self, messages: List[Dict[str, str]]) -> str:
-        """Generate a response from the model based on the given messages.
-        
-        Args:
-            messages (List[Dict[str, str]]): A list of messages in the conversation.
-        
-        Returns:
-            str: The generated response.
-        """
-        pass
-    
-    @abstractmethod
-    def retrieve_and_generate(self, query: str) -> str:
-        """Retrieve relevant chunks and generate a response.
-        
-        Args:
-            query (str): The input query to retrieve relevant information.
-        
-        Returns:
-            str: The generated response based on the retrieved context.
-        """
-        pass
-    
-    @abstractmethod
-    def retrieve_and_generate_history(self, query: str, chat_history: str) -> str:
-        """Retrieve relevant chunks and generate a response while considering chat history.
-        
-        Args:
-            query (str): The input query to retrieve relevant information.
-            chat_history (str): The chat history to maintain context.
-        
-        Returns:
-            str: The generated response.
-        """
-        pass
-
     def apply_prompt_template(self, context: str, query: str, chat_history: str = "") -> str:
         """
         Apply the prompt template based on the presence of chat history.
