@@ -5,7 +5,6 @@ from typing import List, Dict
 from logging import getLogger
 
 
-
 class OpenAIProvider(LLMInterface):
     """Implementation of LLMInterface using OpenAI API."""
     
